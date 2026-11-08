@@ -1,0 +1,21 @@
+requester_email,subject,description,category_id,priority_id
+customer1@test.com,Urgent server down,Server is completely unresponsive,1,1
+customer2@test.com,Password reset needed,Unable to login to account,1,2
+customer3@test.com,Feature request API,Request for new API endpoint,1,3
+customer4@test.com,Billing issue,Charged twice for subscription,1,1
+customer5@test.com,Performance slowdown,Page loading very slowly,1,2
+customer6@test.com,Security concern,Suspicious activity detected,1,3
+customer7@test.com,Integration help,Connecting Slack integration,1,1
+customer8@test.com,Report bug,Error on checkout page,1,2
+customer9@test.com,Upgrade account,Need premium features,1,3
+customer10@test.com,Setup assistance,Initial configuration help,1,1
+customer11@test.com,Report bug,Database connection timeout,1,2
+customer12@test.com,Feature request,Dark mode support,1,3
+customer13@test.com,Performance issue,Search not returning results,1,1
+customer14@test.com,Integration help,Google Calendar sync,1,2
+customer15@test.com,Billing issue,Refund requested,1,3
+customer16@test.com,Security concern,Password not working,1,1
+customer17@test.com,Report bug,Attachment upload failing,1,2
+customer18@test.com,Feature request,Mobile app improvements,1,3
+customer19@test.com,Performance slowdown,API responding slowly,1,1
+customer20@test.com,Setup assistance,User onboarding help,1,2
